@@ -1,2 +1,5 @@
 # Hello-World
-Intro to Girhub
+Intro to Github
+
+I'm a hack computer programmer.
+I think Ubuntu is an African orohan.
